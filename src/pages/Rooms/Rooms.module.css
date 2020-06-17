@@ -1,0 +1,7 @@
+.roomsHero {
+  min-height: 60vh;
+  background: url("../../images/room-2.jpeg") center/cover no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
