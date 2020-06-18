@@ -1,13 +1,3 @@
-## React app:
-
-Run react app:
-
-Install packages `npm install`
-
-Run app `npm start`
-
-Open http://localhost:3000 to view it in the browser.
-
 ## Node app:
 
 ##### Clone react repository from:
@@ -24,6 +14,16 @@ Open http://localhost:5000 to view it in the browser.
 ##### Login Credentials:
 email: test@test.com
 password: 12345
+
+## React app:
+
+Run react app:
+
+Install packages `npm install`
+
+Run app `npm start`
+
+Open http://localhost:3000 to view it in the browser.
 
 ![enter image description here](https://lh3.googleusercontent.com/bl4jJkHGC2DK8XXSJAH-afnn1OSgwvh8eZZU3kr9repof0-Ku8g3r6gYlA3uzWMbVa3LQFywIIOJuU-Igf4LB8K0sVwaYZqmhjTEW0VxlV6TlSiRNO4g5gjxSzwGZu5uFjwKa8gQsMTKBqgluz67NGQfJz9Bdkh8OY7xdOehKiiRXtXs6uLMLGylX2gs6OMjMDvZTMpy-BDTft2iGSMp2fJR9OUGfMaKK8nHrfJ-d1sf3cJcIS-gfqpGgH2oLK7S_CiL37KosrFASQhsjJZoOrMG1V3w4VbNLX0nRKvRY04suoeswvGvrKXTPhiGKkHHGxVrhMlrNh39wOkmZrZLSgynXqtnB4Auhl43tdW3wtVyuVUwMuxpjJBJM51AK3IxQOJxTmlZIw-SDFZJb6QNz87lF9866wOaGjLOmDefrUhQeHJTGPUhyyL1PnBVT2IeGnjLeitYbmiya6jltZka8rsLu9vx1GXSf0sXN3bQYC5UmTJ0JjrbJudl8OqU2gGlqMxMC4fpVBmHGekcshgCyKg40jBGZ1O9QbBNr_6m0NERVbQFkV2sw5JQ_rd1Apz_Z5llZlQ5OVQf7PPoJ5Jg4PTemCQDhxwKEVLil0WjZLx6zm3RGdJx0obnhllCPIVH6lIfSnIUAa08ZIS4PFYvofhZtEibR-SUSJZ4eX4dFsa_vyrbCXe_ms2IYvpN=w739-h914-no?authuser=0)
 ![enter image description here](https://lh3.googleusercontent.com/LxBfCUv-nq3_wRvvcbyJ8o3Arc2lQljC15W-fXHxhjJONEVMpz7ILymy205wHXM-czpgq6fIFtmEKjp3IxkdfEqI-uX53VioeSGGYu9NrtZNm8PFJjBX535OltgGBxAq2qO1Pd6M5MgBKdLxZ7u0csQCrCg1QqsfOcR65sCxCwDJRVmpOj5iQ8bcLnY7TsF5G3cdcC_ktC_o8jwLfaorUIevsqpbhxp2VU6ExPLe2nCxS3sgBiK1r13izP5tLAf2FI_ruoGTQYG37QtzdGbrZmhFt86RTqqyIs1FcxL_zUJRuuxDsalyvUwhqPWoJWz5BPoRWP-ePcINbc1vu__HhX4Jv6u_vw00MjptOeP--ZXwLXxLz-XfARPS5JnCa44KABZoHlNSLMhiHJ9JIczOMiZbl3yUe8p68A9uKVJ_M3--jWv6RM1WOGzBoMt-rBiLcDRLpFcQK55l8bfzoy8eiTk8FQad2bFPIn52AcefrUVnYwSIVlI8ehKcZVnFCa2_MJFZ0c09xHte6ACDUxEvZUmf_yoy3LbolHICTLRw6khTqn1ToO8ELmzV89Z5zN7ZHdYL1JyujkkeVCuK2_C8t33lH4GfmGINPcKaBXQLbK4SFdzZZt_HEHsriZSdh8jLv-WDVSIuXFmmP05GINeL50H8lS0-GVCr_lG_B5E9YK0c_lfXSYVs7MmABTmU=w803-h914-no?authuser=0)
