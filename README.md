@@ -1,68 +1,30 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React app:
 
-## Available Scripts
+Run react app:
 
-In the project directory, you can run:
+Install packages `npm install`
 
-### `npm start`
+Run app `npm start`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open http://localhost:3000 to view it in the browser.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Node app:
 
-### `npm test`
+##### Clone react repository from:
+[https://github.com/rihan7/hotel-node](https://github.com/rihan7/hotel-node)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Install packages `npm install`
 
-### `npm run build`
+Run app `npm start`
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+By default it will run on port 5000.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+Open http://localhost:5000 to view it in the browser.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##### Login Credentials:
+email: test@test.com
+password: 12345
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+![enter image description here](https://lh3.googleusercontent.com/bl4jJkHGC2DK8XXSJAH-afnn1OSgwvh8eZZU3kr9repof0-Ku8g3r6gYlA3uzWMbVa3LQFywIIOJuU-Igf4LB8K0sVwaYZqmhjTEW0VxlV6TlSiRNO4g5gjxSzwGZu5uFjwKa8gQsMTKBqgluz67NGQfJz9Bdkh8OY7xdOehKiiRXtXs6uLMLGylX2gs6OMjMDvZTMpy-BDTft2iGSMp2fJR9OUGfMaKK8nHrfJ-d1sf3cJcIS-gfqpGgH2oLK7S_CiL37KosrFASQhsjJZoOrMG1V3w4VbNLX0nRKvRY04suoeswvGvrKXTPhiGKkHHGxVrhMlrNh39wOkmZrZLSgynXqtnB4Auhl43tdW3wtVyuVUwMuxpjJBJM51AK3IxQOJxTmlZIw-SDFZJb6QNz87lF9866wOaGjLOmDefrUhQeHJTGPUhyyL1PnBVT2IeGnjLeitYbmiya6jltZka8rsLu9vx1GXSf0sXN3bQYC5UmTJ0JjrbJudl8OqU2gGlqMxMC4fpVBmHGekcshgCyKg40jBGZ1O9QbBNr_6m0NERVbQFkV2sw5JQ_rd1Apz_Z5llZlQ5OVQf7PPoJ5Jg4PTemCQDhxwKEVLil0WjZLx6zm3RGdJx0obnhllCPIVH6lIfSnIUAa08ZIS4PFYvofhZtEibR-SUSJZ4eX4dFsa_vyrbCXe_ms2IYvpN=w739-h914-no?authuser=0)
+![enter image description here](https://lh3.googleusercontent.com/LxBfCUv-nq3_wRvvcbyJ8o3Arc2lQljC15W-fXHxhjJONEVMpz7ILymy205wHXM-czpgq6fIFtmEKjp3IxkdfEqI-uX53VioeSGGYu9NrtZNm8PFJjBX535OltgGBxAq2qO1Pd6M5MgBKdLxZ7u0csQCrCg1QqsfOcR65sCxCwDJRVmpOj5iQ8bcLnY7TsF5G3cdcC_ktC_o8jwLfaorUIevsqpbhxp2VU6ExPLe2nCxS3sgBiK1r13izP5tLAf2FI_ruoGTQYG37QtzdGbrZmhFt86RTqqyIs1FcxL_zUJRuuxDsalyvUwhqPWoJWz5BPoRWP-ePcINbc1vu__HhX4Jv6u_vw00MjptOeP--ZXwLXxLz-XfARPS5JnCa44KABZoHlNSLMhiHJ9JIczOMiZbl3yUe8p68A9uKVJ_M3--jWv6RM1WOGzBoMt-rBiLcDRLpFcQK55l8bfzoy8eiTk8FQad2bFPIn52AcefrUVnYwSIVlI8ehKcZVnFCa2_MJFZ0c09xHte6ACDUxEvZUmf_yoy3LbolHICTLRw6khTqn1ToO8ELmzV89Z5zN7ZHdYL1JyujkkeVCuK2_C8t33lH4GfmGINPcKaBXQLbK4SFdzZZt_HEHsriZSdh8jLv-WDVSIuXFmmP05GINeL50H8lS0-GVCr_lG_B5E9YK0c_lfXSYVs7MmABTmU=w803-h914-no?authuser=0)
+![enter image description here](https://lh3.googleusercontent.com/EyVxTgE1xEn_Rn9bOQNMFa2spFa18QGH0bDEQQtD9Ezd7DOA4EMJuZj6p8IKtY-NIsR9l14ae2qOgNXIole3jX3dci59yvZhmyHezf3DhWqPzac2atbECZYNzE0q0vKNgmJ60cCeNFLprmzv338kf9C0Y3bdNf0oqWr_2mXxdr5DiB7H-47_ahqgQ1-lRuTjItBKBzytnYeKK9MSkOm1H8Qo1E18Y2PNntHX3EDg25c6eeyUbCGtym33qSmqQdVx25LVDLolp2wgLppXwR9XqX_jKPbhcQBksyh_P1ocQsEGYYLnjTbgJpG72WmblN48M2LAHLyJ2nuZtSo0j1kes6YO4bfvXXTmZ2b3GySZCDZV--gTws3anvYQ0KIZJ3wflXswz0_dJzWpYtfdxF0hRq8NouMZoxpNz9ifT62Pft4_DxDln_M6mohhp75gUShmSHcNnClVLXW78UhEDm1zd9vmTIcVS67BzNwIrT06q1YhVYOGKsjODumNImTfKtqWfizNBybjeUWiEdXC59LFnHOz64wMwdooUxI2NCwD8GyhhDooqcTbjmof3BPBdX-WIufVsWBT_EiiNK8huViw9PTdGbwRB3VUh3Plm-C5Kyu3-_JbYsIgYRBdKBk6JUPg2Js4iuUDjrjvuiz1dlXFMCXG9mfFvDQujz8DFzItPPa8spT-bYPE2bD0Rxsf=w975-h914-no?authuser=0)
