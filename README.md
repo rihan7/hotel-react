@@ -1,6 +1,6 @@
 ## Node app:
 
-##### Clone react repository from:
+##### Clone node repository from:
 [https://github.com/rihan7/hotel-node](https://github.com/rihan7/hotel-node)
 
 Install packages `npm install`
